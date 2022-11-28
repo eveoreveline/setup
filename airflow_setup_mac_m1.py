@@ -6,3 +6,5 @@ sudo dscl . -create /home_directory_name/username
 
 # mac user login command in terminal (not gui)
 login
+
+# if you are trying to get to the docker image of airflow, run the command 'cd' and move on to the home_directory
